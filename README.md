@@ -1,2 +1,2 @@
 # Google Colab 
-This is used to provide the underlying Terminal commands in Google Colab.
+Depiction of Friendly usage of Google Colab which helps in working on large projects.
